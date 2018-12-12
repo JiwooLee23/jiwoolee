@@ -6,6 +6,7 @@
   height: 80px;
   font-size: 50px;
   text-align: center;
+  align-items: center;
 }
 #clickmee{
   margin-left:-20%;
@@ -15,6 +16,7 @@
   height:80px;
   font-size: 50px;
   text-align: center;
+  align-items: center;
 }
 #clickmeee{
   margin-top: 20%;
@@ -24,6 +26,7 @@
   height:80px;
   font-size: 50px;
   text-align:center;
+  align-items: center;
 }
 
 /* logo */
